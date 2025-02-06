@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/155247316?s=400&u=5e1cd8dec193f42b3db34ab375b15fcd44986103&v=4" width="150" height="150" style="border-radius: 50%;" />
+</p>
 
-<!--
-**Ashik70021/Ashik70021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm MD ASHIKUR RAHMAN SAJIB 👋</h1>
+<h3 align="center">MERN Stack Developer | Passionate about Web Development</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,git,github" alt="Tech Stack" />
+</p>
+
+---
+
+### 📌 About Me
+- 🔭 I’m currently working as a **MERN Stack Developer**
+- 🚀 Skilled in **React, Node.js, MongoDB, Tailwind CSS**
+- 📚 Learning and exploring **Advanced React & Backend Optimization**
+- 📫 Reach me at **[Your Email]**
+- 💼 My Portfolio: **[Your Portfolio Link]**
+- ⚡ Fun Fact: I love solving coding challenges & exploring new technologies!
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik70021)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashik70021&show_icons=true) 
+
+---
+
+### 🤝 Connect with Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashik70021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashikur-rahman-sajib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ashikur.1010)  
