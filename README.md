@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/155247316?s=400&u=5e1cd8dec193f42b3db34ab375b15fcd44986103&v=4" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center">Hi, I'm MD ASHIKUR RAHMAN SAJIB 👋</h1>
 <h3 align="center">MERN Stack Developer | Passionate about Web Development</h3>
@@ -18,8 +15,8 @@
 - 🔭 I’m currently working as a **MERN Stack Developer**
 - 🚀 Skilled in **React, Node.js, MongoDB, Tailwind CSS**
 - 📚 Learning and exploring **Advanced React & Backend Optimization**
-- 📫 Reach me at **[Your Email]**
-- 💼 My Portfolio: **[Your Portfolio Link]**
+- 📫 Reach me at **[ashik70021@gmail.com]**
+- 💼 My Portfolio: **[Portfolio Link]**
 - ⚡ Fun Fact: I love solving coding challenges & exploring new technologies!
 
 ---
